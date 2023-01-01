@@ -1,9 +1,12 @@
-### "Secure Coding - Unleashing the Power of Blockchain Technology with Anand Kumar"
+# Hi 👋, I'm Anand
+
+### **Secure Coding - Unleashing the Power of Blockchain Technology with Anand Kumar**
 
 
 # 💫 About Me:
 
-Anand Kumar is a blockchain developer who is deeply knowledgeable in the most cutting-edge protocols, such as Bitcoin/Ethereum, DAO, Defi, ZK Snark, EVM(Ethereum virtual machine) and Solidity. He is passionate about blockchain technologies. Anand is a fierce supporter of security-first development because he wants to make sure that smart contract security is of the utmost importance. Anand is a highly sought-after resource in the blockchain community due to their dedication to secure coding. They constantly push the limits of what is possible with distributed ledger technologies, making them a true innovator.
+
+Anand Kumar is a blockchain developer who is deeply knowledgeable in the most cutting-edge protocols, such as Bitcoin/Ethereum, DAO, Defi, ZK Snark, EIP, ERC, EVM(Ethereum virtual machine) and Solidity. He is passionate about blockchain technologies. Anand is a fierce supporter of security-first development because he wants to make sure that smart contract security is of the utmost importance. Anand is a highly sought-after resource in the blockchain community due to their dedication to secure coding. They constantly push the limits of what is possible with distributed ledger technologies, making them a true innovator.
 
 
 ## 🌐 Socials:
@@ -19,10 +22,12 @@ Anand Kumar is a blockchain developer who is deeply knowledgeable in the most cu
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AnandK-2024&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=@AnandK1024)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+<!-- ## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=@AnandK1024)](https://github.com/VishwaGauravIn/github-twitter-card-embed) -->
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AnandK-2024&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=AnandK-2024&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+[![](https://visitcount.itsvg.in/api?id=AnandK-2024&label=Profile%20Views&color=1&pretty=true)](https://visitcount.itsvg.in)
