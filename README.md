@@ -21,7 +21,17 @@ Anand Kumar is a blockchain developer who is deeply knowledgeable in the most cu
 * smart contract attack vectors
 
 
-## 💻 Projects
+## 📅 Hobbies
+
+* Analyzing smart contract audit report
+* Playing CTF with smart contract
+* Reading blockchian article
+* Decentralized Finance
+* reading Ethereum Weekly report
+* smart contract attack vectors
+* blockchain hackathon
+* Playing Football
+* listening song
 
 
 
