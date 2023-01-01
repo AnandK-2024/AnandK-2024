@@ -1,6 +1,9 @@
+### "Secure Coding - Unleashing the Power of Blockchain Technology with Anand Kumar"
+
+
 # 💫 About Me:
 
-Anand Kumar is a blockchain developer who is deeply knowledgeable in the most cutting-edge protocols, such as Bitcoin/Ethereum, ZK Snark, and Solidity. He is passionate about blockchain technologies. Anand is a fierce supporter of security-first development because he wants to make sure that smart contract security is of the utmost importance. Anand is a highly sought-after resource in the blockchain community due to their dedication to secure coding. They constantly push the limits of what is possible with distributed ledger technologies, making them a true innovator.
+Anand Kumar is a blockchain developer who is deeply knowledgeable in the most cutting-edge protocols, such as Bitcoin/Ethereum, DAO, Defi, ZK Snark, EVM(Ethereum virtual machine) and Solidity. He is passionate about blockchain technologies. Anand is a fierce supporter of security-first development because he wants to make sure that smart contract security is of the utmost importance. Anand is a highly sought-after resource in the blockchain community due to their dedication to secure coding. They constantly push the limits of what is possible with distributed ledger technologies, making them a true innovator.
 
 
 ## 🌐 Socials:
