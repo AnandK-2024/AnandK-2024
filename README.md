@@ -30,6 +30,7 @@ Anand Kumar is a blockchain developer who is deeply knowledgeable in the most cu
 * reading Ethereum Weekly report
 * smart contract attack vectors
 * blockchain hackathon
+* metaverse
 * Playing Football
 * listening song
 
