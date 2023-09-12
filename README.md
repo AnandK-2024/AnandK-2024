@@ -4,7 +4,7 @@
 
 # 💫 About Me:
 
-Anand Kumar is a blockchain developer who is deeply knowledgeable in the most cutting-edge protocols, such as Bitcoin/Ethereum, DAO, Defi, ZK Snark, EIP, ERC, EVM(Ethereum virtual machine) and Solidity. He is passionate about blockchain technologies. Anand is a fierce supporter of security-first development because he wants to make sure that smart contract security is of the utmost importance. Anand is a highly sought-after resource in the blockchain community due to their dedication to secure coding. They constantly push the limits of what is possible with distributed ledger technologies, making them a true innovator.
+**Anand Kumar is a highly skilled blockchain developer with a deep understanding of cutting-edge protocols such as Bitcoin consensus protocol, Ethereum consensus protocol, DAO, Defi, Account abstraction, EIP, ERC, EVM, and Solidity. Currently, Anand's focus has shifted towards blockchain consensus protocols, with the goal of becoming a blockchain architect and contributing to the scalability of Ethereum. With a strong commitment to excellence, Anand is poised to make significant contributions to the future of blockchain technology.**
 
 ## Education
 ### Indian Institute of Technology, Bhilai                            July 2020 – May 2024 (Expected)
